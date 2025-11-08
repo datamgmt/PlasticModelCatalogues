@@ -32,6 +32,14 @@ There are three elements
     * A question mark on its own indicates that the kit number is not known. 
     * A question mark following a kit number indicates that the kit number has not been confirmed as appearing on a kit box. 
     * An X following a kit number indicates that the kit was never produced with that number. 
+
+## Data Quality
+
+**Please validate the data is suitable for your use case before using - use at your own peril**
+
+* I can't speak to the quality of the original files, although random sampling has showing it to be very accurate.
+* The conversion process is mainly automated and so that may have also introduced errors 
+
     
 ## Credits
 
