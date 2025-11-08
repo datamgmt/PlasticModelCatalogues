@@ -11,7 +11,7 @@ I was looking for just set of data and came across Steve's work at http://www.sw
 There are three elements
 
 * [Airfix Kit List from 1949](/Airfix/Airfix_Kit_List_utf8.txt) by Richard Humm and Steven Pietrobon. This file has been copied and converted to UTF-8 on 08-Nov-2025, updates may appear on Steven's website
-* [Airfix Kit List in Series Order](/Airfix/AAirfix_kits_in_series_order_utf8.txt) by Richard Humm. This file has been copied and converted to UTF-8 on 08-Nov-2025, updates may appear on Steven's website
+* [Airfix Kit List in Series Order](/Airfix/Airfix_kits_in_series_order_utf8.txt) by Richard Humm. This file has been copied and converted to UTF-8 on 08-Nov-2025, updates may appear on Steven's website
 * Parity check digit calculator for Airfix catalogue codes. A Pascal program and binary to calculate the catalogue code checksum. I have renamed the programme, removed the binary and created a Python version of this code
 
 ## Credits
