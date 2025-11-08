@@ -986,7 +986,7 @@ Graf Spee                       F411S/04211-0/9 04211/04211/A04211V
   1/600 scale. Available as F411S from 1971 to 1972, as 04211-0 from 1973 to 1981 and as 9 04211 from 1981 to 1983. Reissued as 04211 from 1988 to 1991 and 1999 to 2002 and as A04211V from 2020 to 2024. Also issued by MPC (USA) as 1-5103 (early 1980s).
 Vauxhall Prince Henry           301/03441-6
   1/32 scale. Available from 1971 to 1977. Reissued in 1980.
-1930 Bentley 4½ Litre Supercharged  2001/09398-1/20440-8/9 20440/20440/A20440/A20440V
+1930 Bentley 4Â½ Litre Supercharged  2001/09398-1/20440-8/9 20440/20440/A20440/A20440V
   1/12 scale. Available as 2001 from 1971 to 1972, as 09398-1 from 1973 to 1975, as 20440-8 from 1976 to 1981 and as 9 20440 from 1981 to 1985. Reissued as 20440 from 1990 to 2007, as A20440 from 2012 to 2016 and as A20440V from 2021 to 2023. Also issued by MPC (USA) as 1-2003 (early 1980s?).
 Bond Bug                        M10C/A02413V
   1/32 scale. Available as M10C from 1971 to 1976. Listed as 01410-6 in 1973 and 1974 catalogues, but not issued. Listed as 02413-8 in 1975 and 1976 catalogues, but not issued. Reissued as A02413V with new clear sprue in 2023.
@@ -1211,7 +1211,7 @@ Suzuki TM400J Cyclone           09301-7/09480-9
 Type 97 Chi-Ha                  01319-4/01319/A01319/A01319V
   1/76 scale. Available as 01319-4 from 1974 to 1979. Reissued as 01319 from 1998 to 2003, as A01319 from 2012 to 2014 and as A01319V from 2022 to 2024. Included in Guadalcanal Japanese Defence 09658-0 from 1974 to 1977 and Armoured Vehicle MEGA Bundle BUNDLEA30 in 2023. Also issued by St Michael in kit number 2140-4301 Battle of the Pacific in 1979.
 German Reconnaissance Set       02312-6/9 02312/02312/A02312/A02312V
-  1/76 scale. Includes Sd.Kfz.222 and Kübelwagen. Incorrectly listed as 03306-4 in 1974 and 1975 catalogues. Available as 02312-6 from 1974 to 1981 and as 9 02312 from 1981 to 1983. Early instructions incorrectly numbered as 02314-2. Reissued as limited edition 02312 in 1994 and 1999 to 2007, as A02312 from 2008 to 2014 and as A02312V from 2020. Included in North African Outpost 04382-1 in 1980, Armoured Vehicle MEGA Bundle BUNDLEA30 in 2023 and Dunkirk 'Operation Dynamo' 85th Anniversary Bundle BUNDLEA74 in 2025. Also issued by MPC (USA) as Reconnaissance Patrol 1-6208 (early 1980s)
+  1/76 scale. Includes Sd.Kfz.222 and KÃ¼belwagen. Incorrectly listed as 03306-4 in 1974 and 1975 catalogues. Available as 02312-6 from 1974 to 1981 and as 9 02312 from 1981 to 1983. Early instructions incorrectly numbered as 02314-2. Reissued as limited edition 02312 in 1994 and 1999 to 2007, as A02312 from 2008 to 2014 and as A02312V from 2020. Included in North African Outpost 04382-1 in 1980, Armoured Vehicle MEGA Bundle BUNDLEA30 in 2023 and Dunkirk 'Operation Dynamo' 85th Anniversary Bundle BUNDLEA74 in 2025. Also issued by MPC (USA) as Reconnaissance Patrol 1-6208 (early 1980s)
 SAM-2 Guideline Missile         03303-5
   1/76 scale. Listed as A303V in 1972 but not issued. Available from 1974 to 1979. Announced by Tsukuda as 876M01 in 1988 but not issued. Mould missing in 1999.
 Anne Boleyn                     03542-8/02502/92502
@@ -1350,7 +1350,7 @@ Forward Command Post            04380-5/03381/A03381
 US 7th Cavalry                  51469-3/51569-2
   1/32 scale. Available from 1976 to 1978. Reissued in 1980. Boxes originally contained 22 pieces (51469-3). Smaller box (51569-2) listed in 1978 and issued in 1980. Also issued by Classic Toy Soldiers as Western Cavalry kit number AFX117A (blue soldiers on brown horses) in 2000s.
 German Paratroops               51467-7/51491-0/51567-6/9 51567/51567/A02712/A02712V
-  1/32 scale. Available as 29 figure 51467-7 from 1976 to 1980, as 14 figure 51567-6 from 1979 to 1981, as 9 51567 from 1981 to 1985 and as 51567 from 1986 to 1991. Reissued as six figure "Action Figure" 51567 from 1995 to 1996, as 14 figure A02712 from 2009 to 2016 and as A02712V from 2021. Also issued in Germany as Deutsche Fallschirmjäger 51491-0 in 1976 and by Classic Toy Soldiers as AFX115A (25 tan) and AFX115B (25 grey) in 2000s.
+  1/32 scale. Available as 29 figure 51467-7 from 1976 to 1980, as 14 figure 51567-6 from 1979 to 1981, as 9 51567 from 1981 to 1985 and as 51567 from 1986 to 1991. Reissued as six figure "Action Figure" 51567 from 1995 to 1996, as 14 figure A02712 from 2009 to 2016 and as A02712V from 2021. Also issued in Germany as Deutsche FallschirmjÃ¤ger 51491-0 in 1976 and by Classic Toy Soldiers as AFX115A (25 tan) and AFX115B (25 grey) in 2000s.
 Combat Pack                     51511-3
   1/32 scale. Contains German Infantry 1718, British Paratroops 51450-9, German Halftrack 1836, Cromwell 1837, Strongpoint 1808 and two pill-boxes. Available from 1976 to 1980.
 Desert Combat Pack              51512-6
@@ -1417,7 +1417,7 @@ Multipose Japanese Infantry     03584-2/04584-5/03584
 German Mountain Troops          01752-7/9 01752/01752
   1/76 scale. Available from 1977 to 1984. Reissued from 1986 to 1996. Also issued by MPC (USA) as 1-6015 from 1983 to 1985.
 German Mountain Troops          51468-0/51492-3/A04713
-  1/32 scale. Available as 29 figure 51468-0 from 1977 to 1980. Reissued as WWII German Mountain Troops A04713 from 2010 to 2016. Listed as 14 figure A02713 in 2010 catalogue, but not issued. Lewarne lists an alternate kit number as 51568-0 but the catalogues do not show this number and there is no evidence that a smaller box was issued. Also issued in Germany as Deutsche Gebirgsjäger 51492-3 in 1976 and by Classic Toy Soldiers as AFX133A (27 grey) in 2000s.
+  1/32 scale. Available as 29 figure 51468-0 from 1977 to 1980. Reissued as WWII German Mountain Troops A04713 from 2010 to 2016. Listed as 14 figure A02713 in 2010 catalogue, but not issued. Lewarne lists an alternate kit number as 51568-0 but the catalogues do not show this number and there is no evidence that a smaller box was issued. Also issued in Germany as Deutsche GebirgsjÃ¤ger 51492-3 in 1976 and by Classic Toy Soldiers as AFX133A (27 grey) in 2000s.
 Gurkhas                         51471-6/51571-5/A02719
   1/32 scale. Available as 29 figure 51471-6 from 1977 to 1980 and as 14 figure 51571-5 from 1979 to 1980. Reissued as WWII Gurkhas A02719 from 1986 to 1991 and 2013 to 2015. Also issued by Classic Toy Soldiers as AFX127A (14 green) in 2000s.
 Modern British Infantry         51472-9/51572-8/9 51572/51572
@@ -2920,7 +2920,7 @@ Bedford QL Trucks QLT & QLD     A03306/A03306A
   1/76 scale. Available as A03306 from 2010 to 2016. Reissued from 2019 to 2024 and as A03306A from 2025. Included in D-Day Operation Overlord A50162 from 2014 to 2017 and from 2020 and Armoured Vehicle MEGA Bundle BUNDLEA30 in 2023.
 European Ruined Workshop        A75001
   1/76 scale. Available from 2010 to 2015.
-European Ruined Café            A75002
+European Ruined CafÃ©            A75002
   1/76 scale. Available from 2010 to 2015.
 European Corner House Ruin      A75003
   1/76 scale. Available from 2010 to 2015.
@@ -3310,7 +3310,7 @@ Nakajima B5N1 'Kate'            A04060
 Bristol Beaufighter TF.10       A05043
   1/72 scale. Beaufighter TF.X A04019 with additional sprue. Available from 2016 to 2020.
 Heinkel He 111H-6               A07007/A07007A/A07007B/A07007C
-  1/72 scale. He 111P-2 A06014 with new cowling sprue and additional propeller sprue. Available as A07007 from 2016, as A07007A limited edition with additional Motörhead decals in 2019, as A07007B limited edition with Motörhead decals only in 2020 and as A07007C with new decals from 2025.
+  1/72 scale. He 111P-2 A06014 with new cowling sprue and additional propeller sprue. Available as A07007 from 2016, as A07007A limited edition with additional MotÃ¶rhead decals in 2019, as A07007B limited edition with MotÃ¶rhead decals only in 2020 and as A07007C with new decals from 2025.
 Boeing B-17G Flying Fortress    A08017/A08017A/A08017B
   1/72 scale. Available as A08017 from 2016 to 2020, as A08017A with additional decals in 2019 and as A08017B with new decals from 2021 to 2024. Included in WWII USAAF Eighth Air Force Resupply Set A12010 from 2017 to 2019. Included in Fortress Mk.III A08018 from 2017 to 2019 and Daytime Raiders Bundle BUNDLEA38 in 2024.
 Douglas Dakota Mk.III with Willys Jeep  A09008
@@ -3566,7 +3566,7 @@ Bugatti Chiron                  J6044/J6025
   1/24 scale. Announced in 2019 catalogue. Available as Chiron blue/white J6044 from 2021 to 2024 and as Chiron black J6025 from 2024.
 Ford Mustang GT 1968            J6035
   1/25 scale. Announced in 2020 catalogue. Available from 2021.
-Audi R8 Coupé                   J6049
+Audi R8 CoupÃ©                   J6049
   1/23 scale. Announced in 2020 catalogue. Available from 2021. Included in Quickbuild - 12 Kits of Xmas BUNDLEA34 in 2023.
 Blood Red Skies - Battle of Britain A1500
   1/72 scale. Includes two Spitfire Mk.Ia A01071A and two Bf 109E-4 A01008. Announced in 2020. Available from 2021 to 2023.
@@ -3601,7 +3601,7 @@ Jeep Gladiator Overland         J6039
   1/26 scale. Available from 2022.
 Austin K2/Y Ambulance           A1375/BUNDLEA13
   1/35 scale. Announced in 2021 catalogue. Available from 2022. Included in BUNDLEA13 with Pint Glass P1208 in 2022 and Desert Supply Drop Bundle BUNDLEA46 in 2024. Bonnet, chassis and clear sprues included in A1380 WWII British Army 30-cwt 4x2 G.S. Truck from 2023.
-Sturmpanzer IV Brummbär 'Mid Version' A1376
+Sturmpanzer IV BrummbÃ¤r 'Mid Version' A1376
   1/35 scale. Reissue of Academy kit number 13525. Available from 2022 to 2024. Included in Panzer Tank Bundle BUNDLEA40 in 2024.
 Stug IV Sd.Kfz.167 (Early Version) A1377
   1/35 scale. Reissue of Academy kit number 13522. Available from 2022 to 2024. Included in Weathering Starter Pack Bundle BUNDLEA36 in 2024 and Panzer Tank Bundle BUNDLEA40 in 2024.
@@ -3656,7 +3656,7 @@ Fairey Gannet AS.1/AS.4         A11007
   1/48 Scale. Available from 2023 to 2025. Not listed in 2025 catalogue. Included in Gannet COD.4 A11009 from 2025.
 McLaren 765LT                   A55006
   1/43 Scale. Available from 2023. Included in Supercar Model Kit Stocking Filler BUNDLEA56 in 2024.
-Lamborghini Huracán EVO         A55007
+Lamborghini HuracÃ¡n EVO         A55007
   1/43 Scale. Available from 2023. Included in Supercar Model Kit Stocking Filler BUNDLEA56 in 2024.
 Aston Martin DB5                A55011
   1/43 Scale. Available from 2023. Included in Starter Set - Classic Car Bundle BUNDLEA66 in 2025.
@@ -3700,7 +3700,7 @@ Spitfire & Tea Bundle           BUNDLEA32
 British Jet Innovation Bundle   BUNDLEA33
   1/72 scale. Includes Sea Harrier FRS.1 A04051A, Lightning F.2A A04054A, Meteor F.8 A04064, Buccaneer S.2B Gulf War A06022A, Valiant B(PR)K.1 A11001A and Vulcan B.2 Black Buck A12013. Available from 2023 to 2024.
 Quickbuild - 12 Kits of Xmas    BUNDLEA34
-  1/43, 1/39, 1/69, 1/56, 1/91, 1/46, 1/24, 1/22, 1/27 and 1/23 scales. Includes Spitfire Mk.I J6000, Bf 109E J6001, Eurofighter Typhoon J6002, BAe Hawk J6003, F-22 Raptor J6005, Mustang P-51D J6016, Lamborghini Aventador LP 700-4 J6019, Volkswagen Beetle J6023, Volkswagen Camper Van J6024, Audi TT Coupe J6034, Ford F-150 Raptor J6037 and Audi R8 Coupé J6049. Available in 2023.
+  1/43, 1/39, 1/69, 1/56, 1/91, 1/46, 1/24, 1/22, 1/27 and 1/23 scales. Includes Spitfire Mk.I J6000, Bf 109E J6001, Eurofighter Typhoon J6002, BAe Hawk J6003, F-22 Raptor J6005, Mustang P-51D J6016, Lamborghini Aventador LP 700-4 J6019, Volkswagen Beetle J6023, Volkswagen Camper Van J6024, Audi TT Coupe J6034, Ford F-150 Raptor J6037 and Audi R8 CoupÃ© J6049. Available in 2023.
 Harrier & F-35B Lightning Bundle BUNDLEA35
   1/72 and 1/24 scales. Incldues Harrier GR.7A/GR.9 A04050A, Harrier FRS.1 A04051A, F-35B Lightning II A55010 and Harrier GR.1 A18001V. Available in 2023.
 Weathering Starter Pack Bundle  BUNDLEA36
@@ -3744,7 +3744,7 @@ Tiger I                         J6041
   1/35 scale. Available from 2024.
 Sherman Firefly                 J6042
   1/35 scale. Available from 2024.
-Lamborghini Hurácan EVO         J6058
+Lamborghini HurÃ¡can EVO         J6058
   1/24 scale. Available from 2024.
 RNLI Shannon Class Lifeboat Decal Sheet A65005
   1/72 scale. Available from 2024. Not listed in 2024 catalogue. Included in RNLI Shannon Class Bundle BUNDLEA77 in 2025.
@@ -3753,7 +3753,7 @@ Daytime Raiders Bundle          BUNDLEA38
 Double Buccaneer Bundle         BUNDLEA39
   1/48 scale. Includes Buccaneer S.2C/D A12012, Buccaneer S.2B A12014 and Buccaneer Build Bookazine M8399. Available in 2024.
 Panzer Tank Bundle              BUNDLEA40
-  1/35 scale. Includes Tiger I 'Early Version' Operation Citadel A1354, Tiger I 'Early Version' A1357, Tiger I 'Early Version' A1363, King Tiger A1369, Sturmpanzer IV Brummbär 'Mid Version' A1376, Stug IV Sd.Kfz.167 (Early Version)A1377 and Panzer III Ausf.J A1378. Available in 2024.
+  1/35 scale. Includes Tiger I 'Early Version' Operation Citadel A1354, Tiger I 'Early Version' A1357, Tiger I 'Early Version' A1363, King Tiger A1369, Sturmpanzer IV BrummbÃ¤r 'Mid Version' A1376, Stug IV Sd.Kfz.167 (Early Version)A1377 and Panzer III Ausf.J A1378. Available in 2024.
 48th Scale Fighter Bundle       BUNDLEA41
   1/48 scale. Includes Spitfire Mk.Vb A05125A, P-51D Mustang A05131A and P-51D Mustang A05138 in 2024, Spitfire Mk.XII A05117A, Spitfire Mk.Ia A05126A, 
 P-40B Warhawk A05130A, Spitfire F Mk.XVIII A05140 and Seafire F.XVII A06102A from 2024 to 2025 and Bf 109E-3/E-4 A05120C and Sea Fury FB.11 A06105A in 2025. Available from 2024 to 2025.
