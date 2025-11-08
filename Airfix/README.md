@@ -17,8 +17,22 @@ There are three elements
 ## Modified Data Set
 
 * [Airfix_Kit_List.xlsx](/Airfix/Airfix_Kit_List.xlsx) - a normalized and standardized version of the original file with filters in Excel format
+
+    * Dates of issue are based on announcements in Airfix Magazine, advertisements, reviews in other magazines and occasionally box styles and kit numbers.
+    * Last dates of availability are based on catalogues, but some kits did become scarce before leaving the catalogue while others remained in the shops for years after their deletion. 
+    * Where a kit is noted as issued "in" a specific year, official availability was confined to that year.
+
 * [Airfix_Kits_In_Series_Order.xlsx](/Airfix/Airfix_Kits_In_Series_Order.xlsx) - a normalized and standardized version of the original file with filters in Excel format
 
+    * Code 1 is the Pattern Number used on Type 0 and Type 1 kits, and on those kits when reissued in Type 2 packaging. 
+    * Code 2 is the Pattern Number used on Type 2 and Type 3 kits, and shown as the Catalogue Number on Type 4 boxes and bags. 
+    * Code 3 is the Code Number shown on Type 4 to Type 7 packaging. 
+    * Code 4 is an alternative Code Number shown on Type 5 and Type 6 boxes for Series 1 historical ships, aircraft and military vehicles, and any alternatives shown in 1970s Airfix catalogues. 
+    * Code 5 is the number shown on Palitoy produced kits. Column 6 is the number shown on Humbrol produced kits. 
+    * A question mark on its own indicates that the kit number is not known. 
+    * A question mark following a kit number indicates that the kit number has not been confirmed as appearing on a kit box. 
+    * An X following a kit number indicates that the kit was never produced with that number. 
+    
 ## Credits
 
 List compiled by Richard Humm and Steven Pietrobon, with acknowledgements to the pioneering work of Pat Lewarne, Brad Hansen and John W Burns. Thanks also to Mario Wens, Claus Wilker and Andy Mullen for checking the list and providing information.
